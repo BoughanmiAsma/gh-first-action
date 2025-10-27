@@ -13,6 +13,6 @@ jobs:
       - name: Afficher un message de fin
         run: echo "Done - Bye"
 
-       - name: Afficher la date courante
+      - name: Afficher la date courante
          run: date
        
