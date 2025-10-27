@@ -14,5 +14,5 @@ jobs:
         run: echo "Done - Bye"
 
       - name: Afficher la date courante
-         run: date
-       
+        run: date
+
